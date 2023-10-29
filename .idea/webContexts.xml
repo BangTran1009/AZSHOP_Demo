@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/common/user/header-home.jsp" value="file://$PROJECT_DIR$/src/main/webapp/common/user" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/common/user/header.jsp" value="file://$PROJECT_DIR$/src/main/webapp/common/user" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/common/user/index-header.jsp" value="file://$PROJECT_DIR$/src/main/webapp/common/user" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/decorators/user.jsp" value="file://$PROJECT_DIR$/src/main/webapp/decorators" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/views/user/about-us.jsp" value="file://$PROJECT_DIR$/src/main/webapp/views/user" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/views/user/blog-details.jsp" value="file://$PROJECT_DIR$/src/main/webapp/views/user" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/views/user/cart.jsp" value="file://$PROJECT_DIR$/src/main/webapp/views/user" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/views/user/checkout.jsp" value="file://$PROJECT_DIR$/src/main/webapp/views/user" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/views/user/forgot-password.jsp" value="file://$PROJECT_DIR$/src/main/webapp/views/user" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/views/user/home.jsp" value="file://$PROJECT_DIR$/src/main/webapp/views/user" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/views/user/index.jsp" value="file://$PROJECT_DIR$/src/main/webapp/views/user" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/views/user/my-account.jsp" value="file://$PROJECT_DIR$/src/main/webapp/views/user" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/views/user/product-details.jsp" value="file://$PROJECT_DIR$/src/main/webapp/views/user" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/views/user/shop-details.jsp" value="file://$PROJECT_DIR$/src/main/webapp/views/user" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/views/user/shop.jsp" value="file://$PROJECT_DIR$/src/main/webapp/views/user" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/views/user/wishlist.jsp" value="file://$PROJECT_DIR$/src/main/webapp/views/user" />
+      </map>
+    </option>
+  </component>
+</project>
